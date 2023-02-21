@@ -6,3 +6,7 @@ ingatlanok lekerdezese a parancssorbol
 
 npm install
 npm start
+
+# ismert hiba
+
+a gson stringbol tombbe alakitasnal 
