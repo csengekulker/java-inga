@@ -1,3 +1,14 @@
+
+/*
+* File: MainController.java
+* Author: Balogh Csenge
+* Copyright: 2023, Balogh Csenge
+* Group: Szoft_II_N
+* Date: 2023-02-21
+* Github: https://github.com/csengekulker/
+* Licenc: GNU GPL
+*/
+
 package controllers;
 
 import java.util.ArrayList;
