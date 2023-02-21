@@ -4,7 +4,7 @@ public class RestApi {
     
     public RestApi() {}
 
-    public void getProperties() {
+    public String getProperties() {
         HttpClient http = new HttpClient();
         String host = "http://[::1]:3000/";
         String endpoint = "properties";
@@ -14,6 +14,8 @@ public class RestApi {
         String res = http.get(urlStr);
 
         System.out.println(res);
+
+        return res;
 
         
     }

@@ -12,5 +12,8 @@ public class MainConsole {
 
     public void printProperties(ArrayList<Property> props) {
         
+        for (Property prop : props) {
+            System.out.println(prop.getCity());
+        }
     }
 }
