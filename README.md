@@ -9,4 +9,4 @@ npm start
 
 # ismert hiba
 
-a gson stringbol tombbe alakitasnal 
+a gson stringbol tombbe alakitasnal, a http response ne legyen array/object
